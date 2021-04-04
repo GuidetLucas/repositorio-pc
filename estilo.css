@@ -1,0 +1,29 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+.contenedor {
+  margin: 200px;
+}
+
+.caja1 {
+  background-color: rgb(155, 22, 90);
+}
+
+.caja2 {
+  background-color: rgb(134, 114, 224);
+}
+
+.caja3 {
+  background-color: rgb(30, 17, 104);
+}
+.caja4 {
+  background-color: rgb(0, 177, 162);
+}
